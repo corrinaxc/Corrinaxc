@@ -1,8 +1,8 @@
 ### Hi there, my name is Corrina 👋
 
-✨ I am a newbie coder from the UK embarking on a new chapter in Berlin ✨
-🌱 I am currently learning HTML, CSS, Javascript & Python 🌱
-💬 Please feel free to contact me. I am always open to challenges and feedback 💬
+- ✨ I am a newbie coder from the UK embarking on a new chapter in Berlin ✨
+- 🌱 I am currently learning ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript) ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python) 🌱
+- 💬 Please feel free to contact me. I am always open to challenges and feedback (go easy on me..) 💬
 
 <!--
 **corrinaxc/Corrinaxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
