@@ -1,3 +1,5 @@
+![Banner](https://github.com/corrinaxc/Corrinaxc/blob/main/BANNER1.png)
+
 ### Hi there, my name is Corrina 👋
 
 - ✨ I am a newbie coder from the UK embarking on a new chapter in Berlin ✨
